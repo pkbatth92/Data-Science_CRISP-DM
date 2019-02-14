@@ -27,7 +27,7 @@ A Jupyter notebook named "Seattle AirBnb Analysis using CRISP-DM" has been provi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]
+The main findings of the code can be found at the post available [here](https://medium.com/@preetkamalsingh1992/seattle-airbnb-what-to-expect-on-your-next-family-trip-c3a119d4ad91)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
